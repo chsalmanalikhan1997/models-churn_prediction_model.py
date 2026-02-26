@@ -7,3 +7,4 @@ def train_model(data):
     model = LogisticRegression()
     model.fit(X, y)
     return model
+# Model version 2: Feature scaling added
