@@ -8,3 +8,4 @@ def train_model(data):
     model.fit(X, y)
     return model
 # Model version 2: Feature scaling added
+# Final version for France application
